@@ -1,10 +1,9 @@
-# header
+#  Hello
 This is read me for demo-repo
 
-# subheader
-Where is previous repo ?
+# What are we doing on this repo?
+In this repo we are playing with git and VS code
 
-## Subheader 2
-
-This shall be saved in new branch
+## How do we play ?
+By using Terminal commands
 
